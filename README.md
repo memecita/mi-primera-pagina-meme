@@ -1,1 +1,16 @@
-# memeromero
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MI PRIMERA PAGINA</title>
+    <link rel="stylesheet" href="skibidi.css">
+</head>
+<body>
+    <div class="container">
+    <center><h2>ANGELES PRIMERA PAGINA</h2></center>
+    <center><h2>s</h2></center>
+    <center><img src="toilet.png" alt=""></center>
+    </div>
+</body>
+</html>
